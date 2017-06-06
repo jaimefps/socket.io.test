@@ -8,3 +8,7 @@ Tiny chat app as a socket.io test with jQuery on the client side.
 
 `node server.js`
 
+Or, if you have nodemon installed:
+
+`nodemon server.js`
+
