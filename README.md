@@ -12,4 +12,6 @@ Or, if you have nodemon installed:
 
 `nodemon server.js`
 
-[tutorial video for this repo] (https://www.youtube.com/watch?v=tHbCkikFfDE "Tutorial video for this repo")
+# Tutorial video for this repo
+
+https://www.youtube.com/watch?v=tHbCkikFfDE 
